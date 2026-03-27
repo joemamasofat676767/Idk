@@ -7,6 +7,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-#txt{
+h1, h2{
   font-color: white;
 }
