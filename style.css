@@ -4,8 +4,5 @@ body{
   font-size: 3em;
   font-family: sans-serif, Arial;
   background: url(BGp1.jpeg);
-}
-BGp1{
-  width: fill-parent;
-  height: fill-parent;
+  repeat: none;
 }
